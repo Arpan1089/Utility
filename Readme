@@ -1,0 +1,33 @@
+callingApi.js  :v  It is a file where all the input is reserved .
+
+commonFieldsofUser.js -- In this file i have put down all the common fields of users in one object and using hashtable i have 
+                          mapped it to the quote id.
+						  to run this file : go to CMD
+						    go to the desired file location
+							 > node -commomFieldsofUser.js
+							 
+							 
+							 
+commonFieldsInMorA.js ---In this a have put down all the common content between  monthly and yearly  premium  of a common company .
+                            I have also mapped this to quote id  using hash map.
+							 to run this file : go to CMD
+						    go to the desired file location
+							 > node -commonFieldsInMorA.js
+						    
+
+sortingOnuserInput.js	--		in this i have thought of sorting on the basis of user Input , i have taken claim settled 
+                                 percentage	 is the criteria of user to sort the premium from different holders .
+                                  I have used sorting technique for this .
+                               It will hlp in quick rendering .
+							   
+							 to run this file : go to CMD
+						    go to the desired file location
+							 > node -sortingOnuserInput.js
+							 
+sortingbasisPremium.js	--   This is sorting  on the basis of premium value of quotes .
+                                Which will be rendered a UI for the user when he will not choose any 
+                                  filter criteria .
+           								  
+    							 to run this file : go to CMD
+						    go to the desired file location
+							 > node -sortingbasisPremium.js
